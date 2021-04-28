@@ -17,4 +17,4 @@ Contact me
 
 @linkedin:- https://www.linkedin.com/in/parkash-satiyaar
 
-Project Link: https://github.com/parkashsatiyaar/photo_studio
+Project Link: https://github.com/parkashsatiyaar/uhost
